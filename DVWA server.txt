@@ -29,4 +29,4 @@ sudo unzip /var/www/master.zip -d /var/www/html/ &
 
 cd /var/www/html/DVWA-server/config/
 sudo nano config.inc.php.dist
-save it as new file named: config.php.inc
+save it as new file named: config.inc.php
